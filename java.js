@@ -13,6 +13,7 @@ var player2 = {
 	//www.youtube.com/watch?v=PmE_81l44oc//
 
 	//can't think of much else to commit//
+	//hi guys!//
 // function keyDown() {
 // 	player1.addEventListener("keydown", function() {
 // 		console.log("player one move");
