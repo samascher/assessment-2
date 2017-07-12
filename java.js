@@ -85,7 +85,7 @@ window.addEventListener("keydown", checkKeyPressed, false);
 	 
  }
 
- //here is another change//
+ //FINAL COMMENT//
 
  var reset = document.querySelector('.button');
  console.log(reset);
