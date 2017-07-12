@@ -85,6 +85,8 @@ window.addEventListener("keydown", checkKeyPressed, false);
 	 
  }
 
+ //here is another change//
+
  var reset = document.querySelector('.button');
  console.log(reset);
  function resetGame () {
