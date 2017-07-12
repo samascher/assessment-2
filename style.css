@@ -1,14 +1,18 @@
+/*set all fonts to audiowide*/
+
 * {
   box-sizing: border-box;
   font-family: 'Audiowide', cursive;
 }
 
+/*set up page background*/
 body {
   background-image: url("https://images6.alphacoders.com/516/516933.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
+/*style for waveracer game page heading*/
 h1 {
   text-align: center;
   font-size: 80px;
@@ -22,6 +26,7 @@ h1 {
   
 }
 
+/*set styling for the DOLPHIN / SHARK directions buttons*/
 a {
   text-align: center;
   font-size: 20px;
@@ -30,6 +35,7 @@ a {
   font-family: 'Audiowide', cursive;
 }
 
+/*sets up the yellow line in which you race*/
 .race {
   border-left: 7px dashed yellow;
   border-right: 7px dashed yellow;
@@ -37,6 +43,7 @@ a {
   margin: auto;
 }
 
+/* sets up position where WORDS for players are on the page*/
 .playerA {
   float: left;
   margin-left: 300px;
@@ -53,6 +60,7 @@ a {
   font-family: 'Audiowide', cursive;
 }
 
+/*reset button styling*/
 .button {
   display: block;
   text-align: center; 
@@ -62,6 +70,7 @@ button {
   font-size: 24px;
 }
 
+/*makes dolphin graphic look pretty*/
 .dolphindiv {
   background-image: url(dolphin.png);
   background-repeat: no-repeat;
@@ -70,6 +79,7 @@ button {
   height: 267px;
 }
 
+/*makes shark graphic look pretty*/
 .sharkdiv {
   background-image: url(shark.png);
   background-repeat: no-repeat;

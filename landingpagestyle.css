@@ -19,6 +19,8 @@ h1 {
 	text-shadow: 2px 2px black;
 }
 
+/* here is a fun waveracer remix that inspired this game https://www.youtube.com/watch?v=XoIzDKpuIUI */
+
 /*formats game tagline*/
 p {
 	font-size: 20px;
@@ -30,11 +32,13 @@ p {
 	letter-spacing: 1px;
 }
 
+/*sets background image for landing page*/
 body {
 	background-image: url("https://i.ytimg.com/vi/bmmrwD0YCdY/maxresdefault.jpg");
 	background-size: cover;
 }
 
+/*formats PLAY button that leads to the game page*/
 #play-game {
 	font-size: 40px;
 	font-family: 'Audiowide', cursive;
