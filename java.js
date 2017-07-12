@@ -9,6 +9,8 @@ var player2 = {
 	type: "shark"
 };
 
+// here is another link to a great waveracer song: 
+	//www.youtube.com/watch?v=PmE_81l44oc//
 // function keyDown() {
 // 	player1.addEventListener("keydown", function() {
 // 		console.log("player one move");
