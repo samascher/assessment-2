@@ -3,11 +3,13 @@
 	text-align: center;
 }
 
+/*got header in a good spot*/
 header {
 	width: 100%;
 	margin-top: 50px;
 }
 
+/*formats waveracer words*/
 h1 {
 	color: #FF1493;
 	font-size: 100px;
@@ -17,6 +19,7 @@ h1 {
 	text-shadow: 2px 2px black;
 }
 
+/*formats game tagline*/
 p {
 	font-size: 20px;
 	color: #7CFC00;
