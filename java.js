@@ -11,6 +11,8 @@ var player2 = {
 
 // here is another link to a great waveracer song: 
 	//www.youtube.com/watch?v=PmE_81l44oc//
+
+	//can't think of much else to commit//
 // function keyDown() {
 // 	player1.addEventListener("keydown", function() {
 // 		console.log("player one move");
